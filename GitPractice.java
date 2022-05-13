@@ -6,7 +6,7 @@ public class GitPractice {
 		int b= 2;
 		int c= 4;
 		int d=b+c;
-		system.out.println(c);
+		System.out.println(d);
 		
 	}
 
